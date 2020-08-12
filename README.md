@@ -1,7 +1,6 @@
-# hello-world
+# Personal Projects
 
-I was introduced to coding in 2017 and have continued to be intrigued by it. I think coding is awesome and will help me in my field some day! 
+These are projects I have worked on with various program languages such as python, java, etc.
+I hope you enjoy!
 
-Best Regards,
-
-Shanice
+- smflournoy
